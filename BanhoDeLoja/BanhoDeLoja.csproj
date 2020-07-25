@@ -6,8 +6,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Collections\BlockingCollectionSample.cs" />
+    <Compile Remove="SystemDoc\ServiceModel\OperationContextSample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="WebSocket\" />
     <Folder Include="Rest\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Collections\BlockingCollectionSample.cs" />
+    <None Include="SystemDoc\ServiceModel\OperationContextSample.cs" />
   </ItemGroup>
 
 </Project>
