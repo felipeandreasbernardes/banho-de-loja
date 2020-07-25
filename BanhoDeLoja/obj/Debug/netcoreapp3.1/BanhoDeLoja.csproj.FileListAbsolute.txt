@@ -1,0 +1,13 @@
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.AssemblyInfoInputs.cache
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.AssemblyInfo.cs
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.csproj.CoreCompileInputs.cache
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.csprojAssemblyReference.cache
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.exe
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.deps.json
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.runtimeconfig.json
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.runtimeconfig.dev.json
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.dll
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\bin\Debug\netcoreapp3.1\BanhoDeLoja.pdb
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.dll
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.pdb
+C:\Users\u003458\source\repos\BanhoDeLoja\BanhoDeLoja\obj\Debug\netcoreapp3.1\BanhoDeLoja.genruntimeconfig.cache

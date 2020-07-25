@@ -1,0 +1,14 @@
+﻿https://docs.microsoft.com/pt-br/dotnet/api/system.collections.concurrent?view=netcore-3.1#classes
+
+Classes 
+BlockingCollection<T>
+ConcurrentBag<T>
+ConcurrentDictionary<TKey,TValue>
+ConcurrentQueue<T>
+ConcurrentStack<T>
+OrderablePartitioner<TSource>
+Partitioner
+Partitioner<TSource>
+
+INTERFACES
+IProducerConsumerCollection<T>
